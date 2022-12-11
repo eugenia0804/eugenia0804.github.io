@@ -6,7 +6,6 @@
 	<array>
 		<string>3330EFFA-0E1A-4BA2-85BD-5AE9A2EE4616</string>
 		<string>EB8A249A-D93A-4D44-AD03-FB28801C2B40</string>
-		<string>5FADE70A-10A1-469E-AE8F-75C9CDDF787E</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -48,53 +47,6 @@
 				<true/>
 				<key>RelativePath</key>
 				<string>./index.html</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-			<key>ItemName</key>
-			<string>index.html</string>
-			<key>ItemType</key>
-			<string>FileReference</string>
-		</dict>
-		<key>5FADE70A-10A1-469E-AE8F-75C9CDDF787E</key>
-		<dict>
-			<key>ItemData</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9vaxQDAAAAAAQQMAAAAA86KH+lC+tOxe84SBLXTgOf
-				gwndevlij6ExebPWNKjUEAIAAAQAAAADAwAAAAgAKAUA
-				AAABAQAAVXNlcnMAAAAIAAAAAQEAAGNhb3l1amlhBwAA
-				AAEBAABEZXNrdG9wABUAAAABAQAAZXVnZW5pYTA4MDQu
-				Z2l0aHViLmlvAAAABAAAAAEBAABjb2RlCgAAAAEBAABp
-				bmRleC5odG1sAAAYAAAAAQYAABAAAAAgAAAAMAAAAEAA
-				AABgAAAAbAAAAAgAAAAEAwAAV1MAAAAAAAAIAAAABAMA
-				AIGGBQAAAAAACAAAAAQDAACGhgUAAAAAAAgAAAAEAwAA
-				Cr4+AgAAAAAIAAAABAMAABPKPgIAAAAACAAAAAQDAABq
-				yj4CAAAAABgAAAABBgAAoAAAALAAAADAAAAA0AAAAOAA
-				AADwAAAACAAAAAAEAABBxKFaR2z2bRgAAAABAgAAAQAA
-				AAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAEAAAA
-				AAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8M
-				AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAKAgaHQA
-				AAAIAAAAAAQAAEHCW/I4HmuAJAAAAAEBAABFQ0EzM0I3
-				RS1CMDQzLTQxRjYtOTBCQy05RTQyQTRDOTUwNzgYAAAA
-				AQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAAB
-				AQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAA
-				AAAEEAAAgAAAAAAAAAAFEAAAAAEAAAAAAAAQEAAAMAEA
-				AAAAAABAEAAAIAEAAAAAAAACIAAA/AEAAAAAAAAFIAAA
-				bAEAAAAAAAAQIAAAfAEAAAAAAAARIAAAsAEAAAAAAAAS
-				IAAAkAEAAAAAAAATIAAAoAEAAAAAAAAgIAAA3AEAAAAA
-				AAAwIAAACAIAAAAAAAABwAAAUAEAAAAAAAARwAAAIAAA
-				AAAAAAASwAAAYAEAAAAAAAAQ0AAABAAAAAAAAAA=
-				</data>
-				<key>FileURL</key>
-				<string>file:///Users/caoyujia/Desktop/eugenia0804.github.io/code/index.html</string>
-				<key>HasSecurityScope</key>
-				<true/>
-				<key>RelativePath</key>
-				<string>./code/index.html</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
