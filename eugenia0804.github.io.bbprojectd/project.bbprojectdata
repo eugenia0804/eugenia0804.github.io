@@ -102,6 +102,53 @@
 			<key>ItemType</key>
 			<string>FolderReference</string>
 		</dict>
+		<key>EF69C6F9-B811-4A57-970B-CB99A5EC6491</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va8ACAAAAAAQQMAAAACJZVzE6u/N0gy6OdjlGKXlY
+				udJ1jK9XNIM5UMostswgvAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAIAAAAAQEAAGNhb3l1amlhBwAA
+				AAEBAABEZXNrdG9wABIAAAABAQAAV2VjaGF0SU1HMjU4
+				MS5qcGVnAAAQAAAAAQYAABAAAAAgAAAAMAAAAEAAAAAI
+				AAAABAMAAFdTAAAAAAAACAAAAAQDAACBhgUAAAAAAAgA
+				AAAEAwAAhoYFAAAAAAAIAAAABAMAAPAXQAIAAAAAEAAA
+				AAEGAAB0AAAAhAAAAJQAAACkAAAACAAAAAAEAABBxKSr
+				ZAvr2hgAAAABAgAAAQAAAAAAAAAPAAAAAAAAAAAAAAAA
+				AAAACAAAAAQDAAACAAAAAAAAAAQAAAADAwAA9QEAAAgA
+				AAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9zaCBI
+				RAgAAAAEAwAAAKAgaHQAAAAIAAAAAAQAAEHCW/I4HmuA
+				JAAAAAEBAABFQ0EzM0I3RS1CMDQzLTQxRjYtOTBCQy05
+				RTQyQTRDOTUwNzgYAAAAAQIAAIEAAAABAAAA7xMAAAEA
+				AAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAAzAAA
+				AP7///8BAAAAAAAAABAAAAAEEAAAXAAAAAAAAAAFEAAA
+				tAAAAAAAAAAQEAAA3AAAAAAAAABAEAAAzAAAAAAAAAAC
+				IAAAqAEAAAAAAAAFIAAAGAEAAAAAAAAQIAAAKAEAAAAA
+				AAARIAAAXAEAAAAAAAASIAAAPAEAAAAAAAATIAAATAEA
+				AAAAAAAgIAAAiAEAAAAAAAAwIAAAtAEAAAAAAAABwAAA
+				/AAAAAAAAAARwAAAIAAAAAAAAAASwAAADAEAAAAAAAAQ
+				0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/caoyujia/Desktop/WechatIMG2581.jpeg</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>../WechatIMG2581.jpeg</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>WechatIMG2581.jpeg</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>com.barebones.DocumentFormatVersion</key>
 	<integer>5</integer>
