@@ -1,0 +1,104 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Gill Sans, sans-serif; /* Use Arial as the fallback sans-serif font */
+  }
+  
+.container {
+    display: flex;
+  }
+  
+.left-section {
+    width: 30%;
+    position: sticky;
+    top: 0;
+    height: 100vh; /* Adjust as needed */
+    background: linear-gradient(to right, rgb(232, 232, 232) 95%, rgb(205, 234, 225) 100%); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+.content {
+    text-align: center;
+    margin: 0px
+}
+
+.content img {
+    width: 40%; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
+    margin-bottom: 10px; /* Adjust spacing between images and text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adjust shadow properties as needed */
+}
+
+.p {
+    font-size: 16px;
+}
+
+#name {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#school-name{
+    font-weight: 600;
+}
+  
+.right-section {
+    flex: 1; /* Occupy remaining space */
+    background: linear-gradient(to left, rgb(205, 234, 225) 100%, rgb(231, 231, 231) 20%);
+    height: 200vh; /* Adjust as needed */
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section img {
+    width: 50%;
+    height: auto;
+}
+
+.section p {
+    text-align: center;
+}
+
+/* Media Query for Thin Screens */
+@media screen and (max-width: 700px) {
+    .container {
+        flex-direction: column; /* Stack items vertically */
+    }
+
+    .content {
+        text-align: center;
+        margin: 50px
+    }
+
+    .p {
+        font-size: 14px;
+    }
+    
+    #name {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .left-section {
+        width: 100%; /* Occupy full width */
+        height: auto; /* Auto height */
+        background: linear-gradient(to bottom, rgb(231, 231, 231) 80%, rgb(185, 228, 215) 100%);
+    }
+
+    .right-section {
+        flex: 1;
+        height: auto; /* Auto height */
+        background-color: rgb(185, 228, 215);
+    }
+  }
